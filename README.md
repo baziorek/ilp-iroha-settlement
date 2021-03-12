@@ -1,4 +1,4 @@
-This is original https://github.com/georgeroman/ilp-iroha-settlement with added modified iroha-iroha transfer with variables. [`Details`](,/examples/yodiss) 
+This is original https://github.com/georgeroman/ilp-iroha-settlement with added modified iroha-iroha transfer with variables. [`Details`](./examples/yodiss) 
 
 [![Docker Image](https://img.shields.io/docker/cloud/build/groman99/ilp-iroha-settlement?style=flat-square)](https://hub.docker.com/repository/docker/groman99/ilp-iroha-settlement)
 
@@ -22,4 +22,4 @@ mvn install
 
 ## Examples
 
-Several examples illustrating the integration between Hyperledger Iroha and the Interledger protocol can be found in the [`examples`](,/examples) directory.
+Several examples illustrating the integration between Hyperledger Iroha and the Interledger protocol can be found in the [`examples`](./examples) directory.
